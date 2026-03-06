@@ -1,2 +1,24 @@
 # mini-trello
-Personal mini-trello collection
+
+## 项目介绍
+这是一个个人迷你 Trello 收集工具，用于管理任务和项目。
+
+## 功能
+- 创建任务
+- 编辑任务
+- 删除任务
+- 任务列表视图
+
+## 技术栈
+- JavaScript
+- HTML
+- CSS
+
+## 使用方式
+1. 克隆仓库
+2. 打开 index.html 文件
+3. 开始使用迷你 Trello 工具
+
+## 未来计划
+- 添加拖放功能
+- 集成到其他工具
